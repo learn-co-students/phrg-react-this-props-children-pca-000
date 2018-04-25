@@ -150,3 +150,4 @@ export default class SomeComponent extends React.Component {
 - [React.Children API](https://facebook.github.io/react/docs/top-level-api.html#react.children)
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/react-this-props-children'>this.props.children</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG React this.props.children</p>
